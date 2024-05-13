@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Defun-bots
-- 👀 I’m interested in robots
-- 🌱 I’m currently learning new programming languages
-- 💞️ I’m looking to collaborate on Cubon
-- 📫 How to reach me defun.bots@gmail.com
+- I am Adrian, the only person at the Wonk project.
+- The Wonk project is very simple: Projects!
 
 <!---
 Defun-bots/Defun-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
