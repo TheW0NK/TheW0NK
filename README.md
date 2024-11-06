@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am the overseer of all development teams at Wonk
 
 ### Connect with Me
 
-- [Email](mailto:aledeaux@gmail.com)
+- [Email](mailto:aledeaux@wonk.app)
 
 ### Projects
 
