@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I am the overseer of all development teams at Wonk
 ### Projects
 
 - [Project 1](https://wonk.app/Portfolio/PyOS/): A bootable Python interpreter.
+- [Project 2](https://wonk.app/): The New wonk.app website.
 
 ### Skills
 
